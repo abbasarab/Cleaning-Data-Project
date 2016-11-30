@@ -1,12 +1,12 @@
 # Reading and Cleaning Data Project
 Data for this project has come from an experiment in which 30 volenteers participated. 
 Each of these participants did all of the following practices while wearing a smartphone on their waist:
-Markup : *Walking
-         *Walking Upstairs
-         *Walking Downstairs
-         *Sitting
-         *Standing
-         *Laying
+Markup : * Walking
+         * Walking Upstairs
+         * Walking Downstairs
+         * Sitting
+         * Standing
+         * Laying
 Using the embedded accelerometer and gyroscope in the smartphone 3-axial linear acceleration and
 3-axial angular velocity have been captured. 
 After some pre-processing of signal, a vector of variables has been provided in both time domain and
